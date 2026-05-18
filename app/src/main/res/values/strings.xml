@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Rakib offline call</string>
+    <string name="channel_name">Offline connection service</string>
+</resources>
